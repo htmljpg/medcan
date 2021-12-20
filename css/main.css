@@ -292,7 +292,7 @@ a, a::before, a::after, img, path, button, button::before, button::after, .btn, 
 .menu__link:hover::before, .menu__link--active::before {top: 0; height: 100%;}
 .main {padding-top: 8.6875rem; padding-bottom: 3rem; max-width: 100%; -webkit-box-flex: 1; -ms-flex-positive: 1; flex-grow: 1;}
 .header {top: 0; left: 363px; right: 0; background-color: #fff; -webkit-box-shadow: 0 3px 16px rgba(0, 0, 0, .13); z-index: 200; position: fixed;}
-.header__mid, .content__mid {padding-left: 4.625rem; padding-right: 4.625rem; max-width: calc(1410px + 9.25rem);}
+.header__mid, .content__mid {padding-left: 4.625rem; padding-right: 4.625rem;}
 .header__block {display: flex; justify-content: space-between; align-items: center;}
 .header__menu {display: flex;}
 .header__menu-item {margin-right: 1.15625rem; white-space: nowrap;}
