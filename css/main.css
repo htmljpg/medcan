@@ -465,7 +465,7 @@ a, a::before, a::after, img, path, button, button::before, button::after, .btn, 
 .selects__item {padding-left: 1.1875rem; padding-right: 1.1875rem;}
 .select--width ~ .selecter-selected {min-width: 16.9375rem;}
 .form__input, .form__textarea, .selecter-selected {background-color: transparent; padding: 1.0625rem .6875rem; border: none; border-bottom: 1px solid #ccc; color: #666; width: 100%; -webkit-appearance: none; appearance: none;}
-.form__input--default, .form__textarea--default {padding-left: .1875rem; padding-right: .1875rem; max-width: 381px;}
+.form__input--default, .form__textarea--default {padding-left: .1875rem; padding-right: .1875rem;}
 .form__input--background, .form__textarea--background {background-color: #fff; border: none; padding-left: 2rem; padding-right: 2rem; padding-top: 1.1875rem; padding-bottom: 1.1875rem; -ms-border-radius: 6px; border-radius: 6px;}
 .form__input:-webkit-autofill {-webkit-text-fill-color: #000; box-shadow: inset 0 0 0 50px rgb(255, 255, 255);}
 .form__input::-webkit-input-placeholder, .form__textarea::-webkit-input-placeholder {color: #666;}
